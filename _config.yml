@@ -2,7 +2,7 @@
 title: Open Lunar
 description: Hardware & Infrastructure Development Community
 baseurl: "" 
-url: "https://openlunar.org" # Replace with your actual URL
+url: "http://openlunarinfrastructure.com/" # Replace with your actual URL
 theme: minima
 
 # --- NAVIGATION TABS ---
@@ -15,5 +15,5 @@ header_pages:
 # --- FOOTER LINKS ---
 minima:
   social_links:
-    - { platform: github,   user_url: "https://github.com/openlunar" }
-    - { platform: twitter,  user_url: "https://twitter.com/openlunar" }
+    - { platform: github,   user_url: "https://github.com/orgs/Open-Lunar-Hardware-Community/repositories" }
+    - { platform: YouTube,  user_url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ&themeRefresh=1" }
