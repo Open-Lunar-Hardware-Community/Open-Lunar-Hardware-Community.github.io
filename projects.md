@@ -17,4 +17,4 @@ We are currently exploring:
 * **Tanks:** Basalt fiber weaving.
 * **Power:** Solar thermal processing.
 
-[Link to GitHub Repository](https://github.com/orgs/Open-Lunar-Hardware-Community/repositories)
+[Link to GitHub Repository](https://github.com/orgs/Open-Lunar-Hardware-Community/projects)
