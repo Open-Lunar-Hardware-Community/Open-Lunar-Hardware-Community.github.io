@@ -16,5 +16,5 @@ We adhere to three core principles:
 2.  **Complexity Reduction:** We prefer "dumb" mechanical solutions (centrifuges, sleds) over complex avionics and active guidance systems.
 3.  **Modular Interoperability:** All hardware is designed to share common standards for power, data, and mechanical coupling.
 
-![Concept Diagram](/assets/images/concept_diagram.png)
+![Concept Diagram](/assets/images/kobold.png)
 *Figure 1: High-level architecture of the Open Lunar infrastructure.*
