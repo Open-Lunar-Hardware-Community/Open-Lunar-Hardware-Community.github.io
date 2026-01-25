@@ -1,3 +1,19 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+# --- SITE SETTINGS ---
+title: Open Lunar
+description: Hardware & Infrastructure Development Community
+baseurl: "" 
+url: "https://openlunar.org" # Replace with your actual URL
+theme: minima
+
+# --- NAVIGATION TABS ---
+# List the exact filenames of the pages you want in the top menu
+header_pages:
+  - about.md
+  - projects.md
+  - join.md
+
+# --- FOOTER LINKS ---
+minima:
+  social_links:
+    - { platform: github,   user_url: "https://github.com/openlunar" }
+    - { platform: twitter,  user_url: "https://twitter.com/openlunar" }
