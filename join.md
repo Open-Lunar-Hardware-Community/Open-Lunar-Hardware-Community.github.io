@@ -15,6 +15,6 @@ Open Lunar is a community-driven project. We need engineers, physicists, chemist
 3.  **Documentation:** helping organize the wiki and research papers.
 
 ### Connect
-* **GitHub:** [github.com/openlunar](https://github.com/openlunar)
+* **GitHub:** [github.com/openlunarhardwarecommunity]([https://github.com/openlunar](https://github.com/orgs/Open-Lunar-Hardware-Community/repositories))
 * **Discord:** [Join our Server](#)
-* **Email:** [contact@openlunar.org](mailto:contact@openlunar.org)
+* **Email:** [contact@openlunar.org](mailto:skconlin97@gmail.com)
