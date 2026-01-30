@@ -1,0 +1,65 @@
+# _data/sections.yml
+
+- id: home
+  title: "Building the Open Source Standard for Lunar Settlement"
+  image: "/assets/images/kobold2.png"
+  content: |
+    Open Lunar is a hardware and infrastructure development community dedicated to lowering the barrier to entry for cislunar operations. We focus on "dumb," robust, and scalable technologies that rely on In-Situ Resource Utilization (ISRU).
+  lists:
+    - title: "Core Focus Areas"
+      items:
+        - "**Launch Logistics:** Mass drivers, sleds, and simplified solid propulsion."
+        - "**Materials Science:** Basalt fiber weaving, aluminum-oxygen combustion, and regolith sintering."
+        - "**Open Hardware:** All designs are open source and documentation driven."
+  buttons:
+    - text: "View Our Projects"
+      link: "#projects"
+    - text: "Join the Community"
+      link: "#join"
+
+- id: about
+  title: "About"
+  image: "/assets/images/kobold.jpg"
+  image_caption: "Figure 1: High-level architecture of the Open Lunar infrastructure."
+  content: |
+    ## Our Mission
+    To create a library of open-source hardware designs that enable sustainable, industrial-scale operations on the lunar surface without relying on complex Earth-based supply chains.
+  subsections:
+    - title: "Design Philosophy"
+      items:
+        - "**ISRU First:** If it can't be built from lunar dirt (regolith), aluminum, or oxygen, we try not to use it."
+        - "**Complexity Reduction:** We prefer 'dumb' mechanical solutions (centrifuges, sleds) over complex avionics and active guidance systems."
+        - "**Modular Interoperability:** All hardware is designed to share common standards for power, data, and mechanical coupling."
+
+- id: projects
+  title: "Projects"
+  subtitle: "Current Hardware Initiatives"
+  subsections:
+    - title: "1. Launch Systems"
+      description: "We are currently exploring:"
+      items:
+        - "**Railguns:** Mass driver logistics."
+        - "**Sleds:** Al-O2 assisted launch."
+    - title: "2. Infrastructure"
+      items:
+        - "**Tanks:** Basalt fiber weaving."
+        - "**Power:** Solar thermal processing."
+  links:
+    - text: "Link to GitHub Repository"
+      url: "https://github.com/orgs/Open-Lunar-Hardware-Community/projects"
+
+- id: join
+  title: "Join Us"
+  content: |
+    Open Lunar is a community-driven project. We need engineers, physicists, chemists, and designers to help solve the hard problems of lunar settlement.
+  subsections:
+    - title: "How to Contribute"
+      items:
+        - "**Code & Simulation:** Help us refine our Python models for orbital trajectories and launch physics."
+        - "**CAD Design:** Contributing open-source CAD files for sled mechanisms and tank structures."
+        - "**Documentation:** helping organize the wiki and research papers."
+    - title: "Connect"
+      items:
+        - "**GitHub:** [github.com/openlunarhardwarecommunity](https://github.com/orgs/Open-Lunar-Hardware-Community/projects)"
+        - "**Discord:** [Join our Server](#)"
+        - "**Email:** [skconlin97@gmail.com](mailto:skconlin97@gmail.com)"
