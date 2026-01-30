@@ -6,14 +6,12 @@ url: "http://openlunarinfrastructure.com/" # Replace with your actual URL
 theme: minima
 
 # --- NAVIGATION TABS ---
-# List the exact filenames of the pages you want in the top menu
+# Links now point to the IDs in the single index page
 header_pages:
-  - about.md
-  - projects.md
-  - join.md
+ - index.md
 
-# --- FOOTER LINKS ---
-minima:
-  social_links:
-    - { platform: github,   user_url: "https://github.com/orgs/Open-Lunar-Hardware-Community/repositories" }
-    - { platform: YouTube,  user_url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ&themeRefresh=1" }
+# You can manually add links in your theme's navigation if needed, 
+# or simply rely on the index page scrolling. 
+# Since Minima auto-generates links from pages, 
+# deleting the old about.md/projects.md/join.md files 
+# will clean up the menu automatically.
