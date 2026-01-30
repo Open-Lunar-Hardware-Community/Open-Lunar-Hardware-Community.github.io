@@ -1,7 +1,7 @@
 # _data/sections.yml
 
 - id: home
-  title: "Building the Open Source Standard for Lunar Settlement"
+  title: "Open Lunar Hardware and Infrastructure Development Community"
   image: "/assets/images/kobold2.png"
   content: |
     Open Lunar is a hardware and infrastructure development community dedicated to lowering the barrier to entry for cislunar operations. We focus on "dumb," robust, and scalable technologies that rely on In-Situ Resource Utilization (ISRU).
@@ -61,5 +61,5 @@
     - title: "Connect"
       items:
         - "**GitHub:** [github.com/openlunarhardwarecommunity](https://github.com/orgs/Open-Lunar-Hardware-Community/projects)"
-        - "**Discord:** [Join our Server](#)"
+        - "**Discord:** None Yet!"
         - "**Email:** [skconlin97@gmail.com](mailto:skconlin97@gmail.com)"
