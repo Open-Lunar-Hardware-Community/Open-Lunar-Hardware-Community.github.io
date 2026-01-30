@@ -32,11 +32,9 @@
         - "**Modular Interoperability:** All hardware is designed to share common standards for power, data, and mechanical coupling."
 
 - id: projects
-  title: "Projects"
-  subtitle: "Current Hardware Initiatives"
+  title: "Associated Projects"
   subsections:
-    - title: "1. Launch Systems"
-      description: "We are currently exploring:"
+    - title: "'We are host to number of ongoing projects intended to "
       items:
         - "**Railguns:** Mass driver logistics."
         - "**Sleds:** Al-O2 assisted launch."
